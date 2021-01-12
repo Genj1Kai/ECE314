@@ -1,0 +1,1 @@
+P1(-5) have not printed std(); P3(-5) have not calculated the total sum
